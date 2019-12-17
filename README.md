@@ -1,6 +1,8 @@
 # eris-bot
 A simple discord bot written in Eris.
 
+> Discord.JS Style
+
 # Creating a Bot Account
 **[Click Here](https://anidiots.guide/getting-started/getting-started-windows-tl-dr)**
 
