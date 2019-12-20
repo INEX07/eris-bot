@@ -94,7 +94,8 @@ bot.on("messageCreate", (message) => {
         .addField("Some more extra info.", "Another extra value.", true)
         .setFooter("Created with Eris.")
       
-      bot.createMessage(message.channel.id, { embed: embed.embed })
+      bot.createMessage(message.channel.id, { embed: embed.embed });
+      // bot.createMessage(message.channel.id, embed);
       
     } 
     
